@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveOrDie", "LiveOrDie\LiveOrDie\LiveOrDie.csproj", "{C065B407-0412-416E-B432-D57F3C1F8979}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "LiveOrDieContent", "LiveOrDie\LiveOrDieContent\LiveOrDieContent.contentproj", "{B9DCF7D6-0A10-46EA-93AF-63E9A6954CD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C065B407-0412-416E-B432-D57F3C1F8979}.Debug|x86.ActiveCfg = Debug|x86
+		{C065B407-0412-416E-B432-D57F3C1F8979}.Debug|x86.Build.0 = Debug|x86
+		{C065B407-0412-416E-B432-D57F3C1F8979}.Release|x86.ActiveCfg = Release|x86
+		{C065B407-0412-416E-B432-D57F3C1F8979}.Release|x86.Build.0 = Release|x86
+		{B9DCF7D6-0A10-46EA-93AF-63E9A6954CD9}.Debug|x86.ActiveCfg = Debug|x86
+		{B9DCF7D6-0A10-46EA-93AF-63E9A6954CD9}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
